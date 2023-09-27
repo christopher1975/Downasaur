@@ -1,0 +1,1 @@
+Deskripsi : Player akan melewati lintasan dan harus menghindari obstacle, kemudian melawan enemy dan boss dengan menggunakan senjata hingga mencapai point tertinggi.
